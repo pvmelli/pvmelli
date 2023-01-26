@@ -4,4 +4,4 @@
 
 Tengo experiencia en proyectos tanto de Backend como de Frontend. Me interesé en el desarrollo durante el auge de Blogger en los 2000-2010, modificando plantillas e hipotetizando sobre el mecanismo detrás de la publicación de posts, pero solo tras largo tiempo logré regresar a esta humilde pasión.
 
-Mi portfolio está disponible ![en este link(bit.ly/2CqWtYs)]
+Mi portfolio está disponible [en este link(bit.ly/2CqWtYs)]
